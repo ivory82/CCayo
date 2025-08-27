@@ -1,5 +1,7 @@
 # Claude Code Usage Monitoring + SwiftBar Integration
 
+![Usage Screenshot](images/screenshot.png)
+
 As I kept using Claude Code, I became more sensitive to usage.
 
 When using the Opus model, tokens run out 5x faster than Sonet,
@@ -18,7 +20,7 @@ CCUSAGE="${CCUSAGE_CMD:-/Users/USER_NAME/.nvm/versions/node/v20.19.4/bin/ccusage
 BLOCK_LIMIT="${BLOCK_LIMIT_TOKENS:-88000}"
 
 # Claude Code 사용량 모니터링 + SwiftBar 연동
-
+![Usage Screenshot](images/screenshot.png)
 클로드 코드를 계속 사용하다 보니 사용량에 좀 민감해졌다.  
 
 모델을 **Opus**를 쓰면 **Sonet**에 비해 토큰이 **5배 빨리 닳기 때문에**,  
